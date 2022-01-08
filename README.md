@@ -15,4 +15,4 @@ Intended for personal use only.
 
 # Video Example
 
-https://youtu.be/1ozKxjI2L5I
+[![Video Example](http://img.youtube.com/vi/1ozKxjI2L5I/0.jpg)](http://www.youtube.com/watch?v=1ozKxjI2L5I " PRAW Github Example ")
