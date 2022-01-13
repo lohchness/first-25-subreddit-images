@@ -1,5 +1,5 @@
 # subreddit-image-scraper
-Python Reddit API Wrapper (PRAW) to grab images from the hot section of a given subreddit. Great for cat pics.
+Python Reddit API Wrapper (PRAW) to grab images from the hot section of a given subreddit. Great for cat pics. The default number of posts in the hot section this script combs through is 25, and can be changed.
 
 This script includes throwaway account details that is prone to possible change. If the script does not work let me know, and I'll update the details in the script, or you can change the variables yourself to fit your own Reddit account and application.
 
